@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation touching the counterfeit Great Seale, ordered by the two pretended houses of Parliament to be put in use.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19174</idno><idno type="EEBO-CITATION">99886281</idno>
+  <idno type="VID">188469</idno>
+  <idno type="EEBO-PROQUEST">2240896646</idno>
+  
+            <idno type="STC">Wing C2712</idno>
+            <idno type="STC">Interim Tract Supplement Guide B.J.5[56]</idno>
+            <idno type="STC">ESTC R225787</idno>
+            <idno type="PROQUEST">ocm99886281</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886281e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188469)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:3[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation touching the counterfeit Great Seale, ordered by the two pretended houses of Parliament to be put in use.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield, printer to the University,</publisher>
+                  <pubPlace>[Printed at Oxford :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>At bottom of text: Given at our court at Oxford, the 24 day of November, in the nineteenth yeare of our raigne. 1643.</note>
+                  <note>Arms 37; Steele notation: Great and 2) Bishops, Of.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Treason --  England --  Early works to 1800.</term>
+               <term type="topical_term">Counterfeits and counterfeiting --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188469:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>BY THE KING.</head>
+            <head type="sub">¶ A Proclamation touching the Counterfeit <hi>Great Seale,</hi> Ordered by the two pretended Houses of Parliament to be put in use.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS by the Lawes and Statutes of this Kingdome, the Counterfeiting of Our Great Seale of <hi>England</hi> is High-Treason; and is so particularly and expressely declared by the Statute made in the five and twentieth yeare of the Raigne of Our Royall Predecessor, King <hi>Edward</hi> the Third, which Statute and Declaration was then obtained and assented to upon the Petition, and at the instance of the Lords and Commons in that Parliament, for the safety and security of them<g ref="char:EOLhyphen"/>selves and their Posterity, in regard of the different opinions before that time touching Treason, and what should be said to be Treason, and what not: and hath since by other severall Acts of Parliament been ratified and approved to be kept and observed as the Rule and direction for deciding and determining of Treason. And whereas of late a new Great Seale, without Warrant or Authority from Us, and against Our Will or Consent, hath been traiterously made, and Counterfeited to the similitude and likenesse of Our Great Seale of <hi>England,</hi> and by the two pretended Houses of Parliament (or by Persons styling themselves by the name of the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament, yet maintaining and upholding Treasons, Warre, and Rebellion against Us, and intolerable oppressions upon Our Subjects, to the ruine and destruction of this Kingdome and Nation) the same is Ordered to be put in use, and that Order published in a printed Paper, intituled, <hi>A Declaration and Ordinance of the Lords and Commons assembled in Parliament, touching the Great Seale;</hi> wherein it is likewise declared by them, That all Letters Patents, Grants, Leases, Pardons, and other Acts and things therein mentioned, which have passed under Our Great Seale, since the time that the same was brought unto Us, shall be invalid, voyd, and of no effect; and that all and every act or thing, which after the publication of that Ordinance, shall passe by, or under Our Great Seale, or under any Great Seale (other then what is therein appointed) should be utterly voyd, frustrate, and of no effect, usurping therein to themselves, and, as much as in them lyes, depriving Us of the meanes of dispensation of Our Justice, Power, Grace, and Mercy, and of what else is in Us to give or conferre, which are Our principall, knowne, and undoubted Rights inherent and belonging only to Our Crowne and Kingly Office. We have therefore thought fit to publish this Our Proclamation, thereby to let all Our Subjects know the deep sense We have of this high indig<g ref="char:EOLhyphen"/>nity offered to Us, and the danger which they shall incurre by acting, passing, clayming, or obeying any thing which shall passe by, or under that new and Counterfeit Seale, or by colour of the pretended and usurped authority thereof. And We doe strictly Charge and Command all pretended Committees, and Keepers of the said Counterfeit New great Seale, That they, or any of them, or any other Person or Persons whatsoever, shall not presume to Seale any Letters Patents, Pardons, Commissions, Faculties, Writs, or any other Instruments or things whatsoever, with the said
+<pb facs="tcp:188469:2"/>New Counterfeit Great Seale. And We doe hereby farther straitly Charge and Command all Arch-Bishops, Bishops, Arch-deacons, Deanes, and their Chancellors, Commissaries, and Officialls, and all Judges, Justices, Justices of Peace, and Commissioners of what kind soever, and all Sheriffes, Bailiffes, Officers and Ministers, and all Our Subjects in generall, of what degree, quality, place, office, or Function soever they be, that they presume not in any sort, either directly, or indirectly, mediately, or immediately, to exercise any Jurisdiction, Power, or Authority, Judiciall or Ministeriall, Ecclesiasticall or Temporall, or to act, passe, claime, doe, or execute, any act, matter, or thing whatsoever, by, or under that new and Counterfeit Great Seale, or by colour or pretence of any interest, power, or authority derived from thence, or in any wise to give obedience or allowance thereunto, or to any Writs, Commissions, Letters-Patents, Grants, Pre<g ref="char:EOLhyphen"/>sentations, Leases, Pardons, Faculties, or any other Act or thing whatsoever, which shall passe by, or under the same. And We doe likewise Charge and Command all Cursitors, Clearks, Officers, and Ministers, and all Our Subjects what<g ref="char:EOLhyphen"/>soever, that they in no sort presume to write, make, frame, fit, prepare, or present any Writs, Commissions, Letters-Patents, Grants, Presentations, Leases, Pardons, Faculties, or any other Instrument, act, writing, or thing whatsoever, to passe under the said Counterfeit Seale, or any way to put the same in use. And We Require a ready and exact obe<g ref="char:EOLhyphen"/>dience from all Our Subjects to this Our just Command, in a matter so highly concerning Our Soveraignty, letting them know, that whatsoever shall be done to the contrary, will be invalid, and voyd in it selfe, and for doing the contrary, they must expect to undergoe the highest and severest penalties, forfeitures, and punishments, which by the Lawes and Statutes of the Kingdome may be imposed or inflicted upon them.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>OXFORD,</hi>
+                  <date>the 24 day of <hi>November,</hi> in the Nineteenth yeare of Our Raigne. 1643.</date>
+               </dateline>
+               <lb/> GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Oxford,</hi> by LEONARD LICHFIELD, Printer to the University. 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
